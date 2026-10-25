@@ -43,9 +43,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ashikaup16/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/ashikaup16/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ashikaup16/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashikaup16/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashikaup16/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ashikaup16/LeetCode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ashikaup16/LeetCode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ashikaup16/LeetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
